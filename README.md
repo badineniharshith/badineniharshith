@@ -77,7 +77,6 @@ Benchmarked KNN, Decision Trees, K-Means, and Regression models on real-world da
 
 ---
 
-## 🖼️<img width="600" height="327" alt="footer" src="https://github.com/user-attachments/assets/7be3f214-8f2f-42a8-b1f2-ae82fce3fc66" />
 
 
 ![Footer](https://github.com/badineniharshith/badineniharshith/blob/main/footer.png?raw=true)
