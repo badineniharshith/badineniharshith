@@ -1,8 +1,9 @@
-# Hi, I'm Harshith Badineni 👋
-
-- AI/ML Engineer Intern | Computer Vision • IoT • Generative AI  
-- Building production-grade ML systems that actually solve real problems  
-
+──────────────────────────────────────────────────────────────
+                    Hi, I'm Harshith Badineni 👋
+──────────────────────────────────────────────────────────────
+     AI/ML Engineer Intern | Computer Vision • IoT • GenAI
+     Building production-grade ML systems that solve real problems
+──────────────────────────────────────────────────────────────
 ---
 
 ## 🚀 About Me
