@@ -19,7 +19,7 @@
 
 ## 🚀 About Me
 
-I'm an **AI/ML Engineer Intern candidate** pursuing a B.Tech in Computer Science at GITAM University, Hyderabad (Expected 2027 | CGPA: 8.22/10). I build at the intersection of **Computer Vision**, **IoT**, and **Generative AI**.
+I'm an **AI/ML Engineer Intern candidate** pursuing a B.Tech in Computer Science at GITAM University, Hyderabad (Expected 2027 | CGPA: 8.27/10). I build at the intersection of **Computer Vision**, **IoT**, and **Generative AI**.
 
 ✅ **Hands-on experience**: COCO-SSD malpractice detection, ESP32-based health monitoring & gesture control (95% accuracy), and face recognition attendance (85% accuracy).
 
@@ -136,16 +136,6 @@ A complete benchmarking suite developed during my **IIIT Hyderabad AIML certific
 
 **Takeaway:** No single model wins — KNN is great for small labeled data, K-Means for customer segmentation, trees for interpretability.
 
----
-
-## 📈 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=badineniharshith&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=badineniharshith&theme=radical" alt="GitHub Streak" width="48%" />
-</p>
-
----
 
 ## 🎓 Certifications & Achievements
 
