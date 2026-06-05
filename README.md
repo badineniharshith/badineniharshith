@@ -156,4 +156,4 @@ I'm actively looking for **AI/ML Engineering internships** (Summer 2026 / Fall 2
 </p>
 
 ---
-*Last updated: June 2026 — based on live resume & projects.*
+*Last updated: June 2026 
